@@ -11,7 +11,7 @@ public class exercicio6 {
         String produto;
 
         System.out.println("Código --- Produto --- Preço");
-        System.out.println("100 --- Cachorro Q!jente --- R$ 1,20\n" +
+        System.out.println("100 --- Cachorro quente --- R$ 1,20\n" +
                 "101 ---  Bauru Simples --- R$ 1,30\n" +
                 "102 --- Bauru com ovo --- R$ 1,50\n" +
                 "103 --- Hambúrguer --- R$ 1,20\n" +
@@ -29,7 +29,7 @@ public class exercicio6 {
                 preco = 1.2f;
                 valorTotal = preco * qtd;
 
-                System.out.println("Cacjprrp Q!jente");
+                System.out.println("Cachorro quente");
                 System.out.printf("%nO valor à ser pago será de: R$%.2f" ,valorTotal);
 
                 break;
