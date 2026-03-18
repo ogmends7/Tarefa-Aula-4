@@ -6,7 +6,7 @@ public class Exercicio2 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        //Júlio César da silva
+        //Gustavo Mendes Ramalho
 
         int mes;
 
